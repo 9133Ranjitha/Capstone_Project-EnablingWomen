@@ -1,0 +1,19 @@
+.cardPart {
+    border: 1px solid red;
+    height: 405px;
+    margin-top: 100px;
+    margin-left: 245px;
+    width: 700px;
+    display: flex;
+    background-color: rgb(204, 219, 178)
+}
+.leftCard {
+    width:350px;
+    border: 3px solid black;
+    height:400px;
+}
+.RightCard {
+    width:350px;
+    border: 3px solid black;
+    height:400px;
+}
