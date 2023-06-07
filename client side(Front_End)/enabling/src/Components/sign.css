@@ -1,0 +1,88 @@
+
+#CardDepart {
+    border: 1px solid red;
+    height: 405px;
+    margin-top: 80px;
+    margin-left: 255px;
+    width: 700px;
+    display: flex;
+    background-color: black;  
+} 
+.LeftSide {
+    width:335px;
+    margin-left: 10px;
+    border: 1px solid black;
+    height:400px;
+}
+.RightSide {
+    width:350px;
+    border: 1px solid black;
+    height:400px;
+    margin-right: 5px;
+}
+.signOne {
+    margin-top:30px;
+    margin-left: 40px;
+    width:270px;
+    height:350px;
+    
+}
+body{
+    background-color:rgb(190, 218, 149);
+}
+h1 {
+    margin-top: 30px;
+    margin-left: 120px;
+    color: rgb(245, 178, 97);
+}
+::placeholder {
+    padding-top:10px;
+    padding-left: 15px;
+    color: rgb(131, 122, 122);
+}
+input {
+    padding-top:5px;
+    width: 250px;
+    margin-top: 20px;
+    margin-left: 40px;
+    color: white;
+    background-color:transparent;
+}
+.signBtn {
+    width: 200px;
+    height: 30px;
+    margin-bottom: 5px;
+    margin-left: 65px;
+    background-color: transparent;
+    color: rgb(245, 178, 97);
+
+}
+label {
+    color: white;
+    font-size: 10px;
+    margin-left: 0px;
+
+
+}
+.BoxContainer {
+    display:flex;
+    margin-top: 20px;
+    height: 30px;
+    width:270px;
+    margin-left: 40px;
+}
+.checkBox {
+    margin-top: 1px;
+    width: 10px;
+    height: 10px;
+    background-color:red;
+    margin-left: 0px;
+    
+}
+span {
+    color: white;
+    font-size: 10px;
+    margin-left: 170px;
+   
+}
+  

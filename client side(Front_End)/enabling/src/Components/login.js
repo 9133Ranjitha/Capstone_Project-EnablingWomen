@@ -1,6 +1,5 @@
 import React from 'react';
 import './login.css';
-//using state 
 function LoginPage() {
   return (
     <body>

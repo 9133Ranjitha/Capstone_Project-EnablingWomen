@@ -30,7 +30,7 @@ h1 {
 }
 ::placeholder {
     padding-top:10px;
-   text-align: center;
+    padding-left: 15px;
     color: rgb(131, 122, 122);
 }
 input {
