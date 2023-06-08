@@ -22,7 +22,7 @@ function Signup () {
                     </form>
                 </div>
                 <div class="RightSide">
-                    <img className='signOne' src="loginLogo.png" alt="no image" /> 
+                    <img className='signOne' src="resources/loginLogo.png" alt="no image" /> 
                 </div>
             </div>
         
