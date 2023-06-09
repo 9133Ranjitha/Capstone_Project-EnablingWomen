@@ -57,13 +57,38 @@ function HomePage () {
             </nav>
             <div className="slideContainer">
                 <img className="slideimg" src="resources/slideimg.jpg" alt=""></img>
-                <video className="controlVideo" ref={videoRef}  controler>
-                    <source  src="resources/animation.mp4" type="video/mp4"></source>
-                </video>
-
-
+            </div><br/>
+            <div className='cardDepart'>
+                <div className='cardOne'>
+                    <video className='videOne' ref={videoRef} controls>
+                        <source  src='resources/stich.mp4'></source>
+                    </video>
+                    </div>
             </div>
-        
+            <div className='cardDepart'>
+                <div className='cardOne aligin'>
+                    <video className='videOne' ref={videoRef} controls>
+                        <source  src='resources/stich.mp4'></source>
+                    </video>
+                    </div>
+            </div>
+            <div className='cardDepart'>
+                <div className='cardOne'>
+                    <video className='videOne' ref={videoRef} controls>
+                        <source  src='resources/stich.mp4'></source>
+                    </video>
+                    </div>
+            </div>
+            
+            <div className='cardDepart'>
+                <div className='cardOne aligin'>
+                    <video className='videOne' ref={videoRef} controls>
+                        <source  src='resources/stich.mp4'></source>
+                    </video>
+                    </div>
+            </div>
+          
+
         </div>
     );
 }
